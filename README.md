@@ -1,4 +1,4 @@
-My name is Josefina Reig 
+My name is Josefina Reig. 
 I'm taking my first steps in the IT world 
 
 <!---
